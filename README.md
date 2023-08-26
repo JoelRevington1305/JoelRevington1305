@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/joelrevington"><img src="https://api.daily.dev/devcards/096c1c0357ce464e914265c72068c1fe.png?r=6by" width="400" alt="Joel Revington's Dev Card"/></a>
 <!--
 **JoelRevington1305/JoelRevington1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
